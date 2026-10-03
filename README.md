@@ -3,8 +3,7 @@
                  Backend · AI · Systems
 
 
-        I build systems that are boring in production.
-
+      make things simple   make them reliable  understand why
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -14,8 +13,7 @@
     Production systems
     Backend infrastructure
     AI applications
-    Product engineering
-
+    
 
 02 — THINK
 
@@ -24,25 +22,19 @@
     Information retrieval
     AI evaluation
     Engineering judgment
-
+    
 
 03 — EXPLORE
 
-    TypeScript · Go · Python
-    Node.js · Hono
-    PostgreSQL · Redis · Qdrant
-    AWS · Terraform
+    Go · Python · Natural language
+    AI engineering
+    Product engineering
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 SELECTED WORK
-
-    ┌───────────────────────────────────────────────┐
-    │ Event-driven notification platform           │
-    │ Webhooks · Redis · Node.js                    │
-    └───────────────────────────────────────────────┘
 
     ┌───────────────────────────────────────────────┐
     │ Local semantic knowledge engine               │
