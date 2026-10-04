@@ -50,17 +50,5 @@ SELECTED WORK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-NOTES
-
-    Why idempotency matters more than retries
-    When caching makes a system worse
-    RAG beyond vector search
-    Designing reliable AI agents
-    Architecture as a series of trade-offs
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
                     build quietly.
                     think deeply.
