@@ -50,5 +50,5 @@ SELECTED WORK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-                    build quietly.
-                    think deeply.
+    build quietly.
+    think deeply.
